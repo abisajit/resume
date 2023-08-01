@@ -1,0 +1,33 @@
+*{
+    font-size:100%; 
+    margin: 0;
+
+}
+h1{
+    text-align: center;
+    color:#369;
+    padding:.5em.2em ;
+    border-bottom: solid #ccc 1px;
+    background-color: whiteSmoke;
+    box-shadow:  4px -8px 7px rgba(0,0,0,)
+}
+h2{
+    clear: both;
+    display: block;
+    position: relative;
+    top:-1rem; /*adjust as needed*/
+    left: calc(-50% + .5em);
+    width: max-content;
+    height: auto;
+    line-height: normal;
+   
+p,td,li{
+
+    font-size: 40px;
+    font-weight: 300;
+}table,tr,td{
+    padding: 10px;
+}
+li{
+   line-height: 3rem
+}
